@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'QRdashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A52E9F6A7164234BD91731D78F4B9A0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A27434E08E1D45F5AB769A019A01AA6C }}
